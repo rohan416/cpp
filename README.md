@@ -1,2 +1,2 @@
 # cpp
- yeah thats it!
+ These are the codes i practised while learning c++!
